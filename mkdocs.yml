@@ -6,7 +6,7 @@ repo_name: sunls2/zhouyi
 
 nav:
   - 首页: /
-  - AI 占卜: https://divination.sunls.de
+  
 
 plugins:
   - search:
